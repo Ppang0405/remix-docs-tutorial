@@ -36,3 +36,6 @@ Make sure to deploy the output of `remix build`
 
 - `build/server`
 - `build/client`
+
+
+-> check remix-docs-tutorial.fly.dev to see this page.
